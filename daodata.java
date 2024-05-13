@@ -25,3 +25,4 @@ public class daodata {
 		return ret;
 	}
 }
+https://training.deepneuron.in/courses/full-stack-power-bi-course-march-batch/lessons/installation-of-power-bi-desktopcopy-3/
